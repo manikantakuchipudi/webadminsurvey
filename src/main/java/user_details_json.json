@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user_name": "abcd",
+      "password": "mani",
+      "surveys": [
+        {
+          "surveyname": "HYDERABAD_RUAL0",
+          "surveyid": 1
+        },
+        {
+          "surveyname": "HYDERABAD_RUAL1",
+          "surveyid": 2
+        },
+        {
+          "surveyname": "HYDERABAD_RUAL2",
+          "surveyid": 3
+        }
+      ],
+      "address": {
+        "city": "abcdee",
+        "village": "abcd"
+      }
+    },
+    {
+      "id": 1,
+      "user_name": "abcd",
+      "password": "mani",
+      "surveys": [
+        {
+          "surveyname": "HYDERABAD_RUAL0",
+          "surveyid": 1
+        },
+        {
+          "surveyname": "HYDERABAD_RUAL1",
+          "surveyid": 2
+        },
+        {
+          "surveyname": "HYDERABAD_RUAL2",
+          "surveyid": 3
+        }
+      ],
+      "address": {
+        "city": "abcdee",
+        "village": "abcd"
+      }
+    }
+  ]
+}

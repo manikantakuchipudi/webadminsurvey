@@ -1,0 +1,166 @@
+{
+  "Survey" :[{
+  "survey_name":"HYDERABAD RUAL",
+  "langId" :"ENGLISH",
+  "Questions" : [ 
+	  {
+	  "original_properties" : {
+			"qid" : 1,
+			"noOfOptions" : 4,
+			"question" : "what is your toilet Type",
+			"qtypeId" :"RADIO",
+			"subquestions" :[{
+	
+		"original_properties" : {
+			"qid" : 2,
+			"noOfOptions" : 4,
+			"question" : "CASTE",
+			"displayid":"1",
+			"qtypeId" :"RADIO",
+			"subquestions" :[]
+	   },
+		"query_properties" : {
+			"gridId" : null,
+			"gridColumns" : [],
+			"questionsReports" : [ ],
+			"surveyQuestionOptions" : [ {
+				"option" : "SC",
+				"surveyQuestionOptions" : [{
+					"string_representation" : "SUBCASTE",
+					"original_properties" : {
+					  "qid" :3,
+						"noOfOptions" : 4,
+						"question" : "SUBCASTE",
+						"displayid":"1",
+				    "qtypeId" :"RADIO",
+				    "subquestions" :[]
+			    	},
+					"query_properties" : {
+						
+						"gridId" : "abcd",
+						"gridColumns" : ["coulmn1","coulmn2"],
+						
+							"questionsReportCollection" : [ ],
+							"surveyQuestionOptionsCollection" : [ {
+								"option" : "open",
+								"optionquestion" : []
+							}, {
+								"option" : "public toilet",
+								"optionquestion" : []
+							}]
+						
+					}
+				}]}, {
+					"option" : "ST",
+					"surveyQuestionOptionQuestionsCollection" : []
+				}, {
+					"option" : "OBC",
+            "surveyQuestionOptionQuestionsCollection" : []
+            }
+            , {
+            "option" : "GENERAL",
+            "surveyQuestionOptionQuestionsCollection" : []
+            }
+          ]
+    }
+	 }]
+	 
+		},
+		"query_properties" : {
+			"gridname" : "abcd",
+			"gridColumns" : [{"name":"coulmn1","options":["A","B","C"]},{"name"             :"coulmn1","options":[]}],
+			"questionsReports" : [ ],
+			"surveyQuestionOptions" : [ {
+				"option" : "open",
+				"optionquestion" : []
+			}, {
+				"option" : "public toilet",
+				"optionquestion" : []
+			}]
+		}
+	},
+	{
+	
+		"original_properties" : {
+			"qid" : 2,
+			"noOfOptions" : 4,
+			"question" : "CASTE",
+			"displayid":"1",
+			"qtypeId" :"RADIO",
+			"subquestions":[]
+	   },
+		"query_properties" : {
+			"gridId" : null,
+			"gridColumns" : [],
+			"questionsReports" : [ ],
+			"surveyQuestionOptions" : [ {
+				"option" : "SC",
+				"surveyQuestionOptions" : [{
+					"string_representation" : "SUBCASTE",
+					"original_properties" : {
+					  "qid" :3,
+						"noOfOptions" : 4,
+						"question" : "SUBCASTE",
+						"displayid":"1",
+				    "qtypeId" :"RADIO",
+				    "subquestions" :[]
+			    	},
+					"query_properties" : {
+						
+						"gridId" : "abcd",
+						"gridColumns" : ["coulmn1","coulmn2"],
+						
+							"questionsReportCollection" : [ ],
+							"surveyQuestionOptionsCollection" : [ {
+								"option" : "open",
+								"optionquestion" : []
+							}, {
+								"option" : "public toilet",
+								"optionquestion" : []
+							}]
+						
+					}
+				}]}, {
+					"option" : "ST",
+					"surveyQuestionOptionQuestionsCollection" : []
+				}, {
+					"option" : "OBC",
+            "surveyQuestionOptionQuestionsCollection" : []
+            }
+            , {
+            "option" : "GENERAL",
+            "surveyQuestionOptionQuestionsCollection" : []
+            }
+          ]
+    }
+	 }]
+	 },
+{
+  "survey_name":"HYDERABAD RUAL1",
+  "langId" :"ENGLISH",
+  "Questions" : [ 
+	  {
+	    "original_properties" : {
+			"qid" : 1,
+			"noOfOptions" : 4,
+			"question" : "what is your toilet Type",
+			"qtypeId" :"RADIO"
+			
+		},
+		"query_properties" : {
+			"gridname" : "abcd",
+			"gridColumns" : [{"name":"coulmn1","options":["A","B","C"]},{"name"             :"coulmn1","options":[]}],
+			"questionsReportCollection" : [ ],
+			"surveyQuestionOptionsCollection" : [ {
+				"option" : "open",
+				"surveyQuestionOptionQuestionsCollection" : []
+			}, {
+				"option" : "public toilet",
+				"surveyQuestionOptionQuestionsCollection" : []
+			}]
+		}
+	}
+]
+}
+]
+}
